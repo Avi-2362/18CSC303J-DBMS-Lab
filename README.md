@@ -1,15 +1,15 @@
 # 18CSC303J-DBMS-Lab
-University lab experiments for the weekly questions
+University lab experiments for the weekly questions.
 
-#NAME OF EXPERIMENT
-1	  Basic sql commands
-2	  Constraints for Hospital Management Systems
-3	  Database for a car Insurance company
-4	  Use of functions like Sum and COUNT
-5	  Use of different type of functions in SQL
-6	  Modification and deletion of table values
-7	  Implementation of JOINS in SQL
-8	  Factorial in PL/SQL
-9	  Introduction to PL/SQL codes
-10	Execute PL/SQL command to given condition
+List of Experiments:
+1. Basic SQL Commands
+2. Constraints for Hospital Managment Systems
+3. Database for Car Insurance company
+4. Use of funtions liks SUM and COUNT
+5. Use of different type of funtions in SQL
+6. Modification and deletion of table values
+7. Implementation and deletion of table values
+8. Fatorial in PL/SQL
+9. Indroduction to PL/SQL code
+10. Execute PL/SQL commands to given condition
  
